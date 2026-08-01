@@ -8,13 +8,13 @@ The website showcases my skills, projects, resume, and contact information with 
 
 ## 🚀 Live Demo
 
-https://nikhilpal-ui.github.io/portfolio/
+https://nikhilpal-ui.github.io/CODSOFT_TASKNO/
 
 ---
 
 ## 📂 GitHub Repository
 
-https://github.com/NikhilPal-ui/portfolio
+https://github.com/nikhilpal-ui/CODSOFT_TASKNO
 
 ---
 
