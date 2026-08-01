@@ -142,7 +142,6 @@ function typingEffect() {
 }
 
 typingEffect();
-
   let speed = deleting ? 60 : 120;
 
   if (!deleting && charIndex > currentWord.length) {
@@ -160,7 +159,7 @@ typingEffect();
   }
 
   setTimeout(typingEffect, speed);
-}
+
 
 typingEffect();
 
