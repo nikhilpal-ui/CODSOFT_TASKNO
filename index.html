@@ -59,9 +59,7 @@
 <li><a href="#skills">Skills</a></li>
 <li><a href="#projects">Projects</a></li>
 <li><a href="#resume">Resume</a></li>
-<li><a href="<a href="contacts">
-  
-</a>">Contact</a></li>
+<li><a href="#contacts">Contacts</a></li>
 
 </ul>
 
@@ -385,48 +383,26 @@ Download Resume
 <!--================ CONTACT ================-->
 
 <section id="contact">
+  <h2 class="section-title">Contact Me</h2>
 
-<h2 class="section-title">
+  <form id="contactForm">
+    <input type="text" id="name" placeholder="Your Name" required>
 
-Contact Me
+    <input type="email" id="email" placeholder="Your Email" required>
 
-</h2>
+    <input type="text" id="subject" placeholder="Subject" required>
 
-<form id="contactForm">
+    <textarea
+      id="message"
+      rows="6"
+      placeholder="Your Message"
+      required>
+    </textarea>
 
-<input
-type="text"
-id="name"
-placeholder="Your Name">
-
-<input
-type="email"
-id="email"
-placeholder="Your Email">
-
-<input
-type="text"
-id="subject"
-placeholder="Subject">
-
-<textarea
-
-id="message"
-
-rows="6"
-
-placeholder="Your Message">
-
-</textarea>
-
-<button class="btn">
-
-Send Message
-
-</button>
-
-</form>
-
+    <button type="submit" class="btn">
+      Send Message
+    </button>
+  </form>
 </section>
 
 <!--================ FOOTER ================-->
