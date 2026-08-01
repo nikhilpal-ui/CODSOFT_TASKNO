@@ -130,10 +130,7 @@ if (themeToggle) {
 // ================= Typing Animation =================
 const typing = document.getElementById("typing");
 
-const words = [
-  "Frontend Developer"
-];
-
+const words = ["Frontend Developer"];
 let wordIndex = 0;
 let charIndex = 0;
 let deleting = false;
