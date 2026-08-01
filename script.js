@@ -131,10 +131,7 @@ if (themeToggle) {
 const typing = document.getElementById("typing");
 
 const words = [
-  "Frontend Developer",
-  "Web Designer",
-  "JavaScript Developer",
-  "React Learner"
+  "Frontend Developer"
 ];
 
 let wordIndex = 0;
