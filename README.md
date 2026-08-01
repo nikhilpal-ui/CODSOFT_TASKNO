@@ -60,9 +60,7 @@ Portfolio/
 
 ---
 
-## 📸 Screenshot
 
-Add a screenshot of your portfolio homepage here.
 
 ---
 
