@@ -70,8 +70,8 @@ Add a screenshot of your portfolio homepage here.
 
 **Nikhil Chandra Pal**
 
-- GitHub: https://github.com/NikhilPal-ui
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+- https://github.com/nikhilpal-ui
+- www.linkedin.com/in/nikhil-pal-20aa3a339
 
 ---
 
