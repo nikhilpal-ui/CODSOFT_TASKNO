@@ -130,28 +130,18 @@ if (themeToggle) {
 // ================= Typing Animation =================
 const typing = document.getElementById("typing");
 
-const words = ["Frontend Developer"];
-let wordIndex = 0;
-let charIndex = 0;
-let deleting = false;
+const text = "Frontend Developer";
+let index = 0;
 
 function typingEffect() {
-
-  if (!typing) return;
-
-  const currentWord = words[wordIndex];
-
-  if (deleting) {
-    typing.textContent = currentWord.substring(
-      0,
-      charIndex--
-    );
-  } else {
-    typing.textContent = currentWord.substring(
-      0,
-      charIndex++
-    );
+  if (index < text.length) {
+    typing.textContent += text.charAt(index);
+    index++;
+    setTimeout(typingEffect, 100);
   }
+}
+
+typingEffect();
 
   let speed = deleting ? 60 : 120;
 
