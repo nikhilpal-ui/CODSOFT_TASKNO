@@ -1,41 +1,46 @@
-# 🌐 Personal Portfolio Website
+# 🚀 CodSoft Frontend Development Internship
 
-This is my personal portfolio website developed as **Task 1** for the **CodSoft Frontend Development Internship**.
-
-The website showcases my skills, projects, resume, and contact information with a modern and responsive user interface.
+This repository contains all the projects completed during my **CodSoft Frontend Development Internship**.
 
 ---
 
-## 🚀 Live Demo
-
-https://nikhilpal-ui.github.io/CODSOFT_TASKNO/
-
----
-
-## 📂 GitHub Repository
+# 📂 GitHub Repository
 
 https://github.com/nikhilpal-ui/CODSOFT_TASKNO
 
 ---
 
-## ✨ Features
+# 🌐 Live Demo
 
-- Responsive Design
-- Modern User Interface
-- Smooth Scrolling Navigation
-- Animated Sections
-- Skills Progress Bars
-- Project Showcase
-- Download Resume Button
-- Contact Form
-- Mobile Friendly Design
-- Dark Theme
-- Back to Top Button
+### Task 1 - Personal Portfolio
+https://nikhilpal-ui.github.io/CODSOFT_TASKNO/
+
+### Task 2 - To-Do List Application
+https://nikhilpal-ui.github.io/CODSOFT_TASKNO/Task-2-Todo/
+
+### Task 3 - Calculator
+Coming Soon
 
 ---
 
-## 🛠️ Technologies Used
+# 📋 Projects
 
+## 🌐 Task 1 - Personal Portfolio Website
+
+A responsive portfolio website showcasing my skills, projects, resume, and contact information.
+
+### Features
+- Responsive Design
+- Modern User Interface
+- Smooth Scrolling
+- Animated Sections
+- Skills Section
+- Project Showcase
+- Resume Download
+- Contact Form
+- Dark Theme
+
+**Technologies Used**
 - HTML5
 - CSS3
 - JavaScript
@@ -44,42 +49,75 @@ https://github.com/nikhilpal-ui/CODSOFT_TASKNO
 
 ---
 
-## 📁 Folder Structure
+## ✅ Task 2 - To-Do List Application
 
-```
-Portfolio/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-│── RESUME.pdf
-│── about.jpg
-│── OIP (2).jpg
-│── shop (1).jpg
+A responsive task management application with Local Storage support.
+
+### Features
+- Add Tasks
+- Edit Tasks
+- Delete Tasks
+- Mark Complete/Pending
+- Search Tasks
+- Filter Tasks
+- Categories
+- Priority Levels
+- Due Dates
+- Local Storage
+- Dark Mode
+
+**Technologies Used**
+- HTML5
+- CSS3
+- JavaScript
+- Local Storage API
+
+---
+
+## 🧮 Task 3 - Calculator
+
+**Status:** Coming Soon
+
+---
+
+# 📁 Repository Structure
+
+```text
+CODSOFT_TASKNO/
+│
+├── README.md
+├── index.html
+├── style.css
+├── script.js
+│
+├── Task-2-Todo/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+└── Task-3-Calculator/
+    ├── index.html
+    ├── style.css
+    └── script.js
 ```
 
 ---
 
-
-
----
-
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Nikhil Chandra Pal**
 
-- https://github.com/nikhilpal-ui
-- www.linkedin.com/in/nikhil-pal-20aa3a339
+GitHub:
+https://github.com/nikhilpal-ui
+
+LinkedIn:
+https://www.linkedin.com/in/nikhil-pal-20aa3a339/
 
 ---
 
-## 📜 Internship
+# 📜 Internship
 
-This project was created as **Task 1 (Personal Portfolio Website)** for the **CodSoft Frontend Development Internship**.
+This repository contains the tasks completed as part of the **CodSoft Frontend Development Internship**.
 
----
+⭐ Thank you for visiting this repository!
 
-## ⭐ Thank You
-
-Thank you for visiting my portfolio!
-Feel free to explore the project and provide your valuable feedback.
