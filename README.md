@@ -75,7 +75,7 @@ A responsive task management application with Local Storage support.
 
 ---
 
-## 🧮 Task 3 - Calculator
+## 💰 Task 3 - Expense Tracker
 
 **Status:** Coming Soon
 
