@@ -142,24 +142,18 @@ function typingEffect() {
 }
 
 typingEffect();
-  let speed = deleting ? 60 : 120;
+  const typing = document.getElementById("typing");
 
-  if (!deleting && charIndex > currentWord.length) {
-    deleting = true;
-    speed = 1200;
+const text = "Frontend Developer";
+let index = 0;
+
+function typingEffect() {
+  if (index < text.length) {
+    typing.textContent += text.charAt(index);
+    index++;
+    setTimeout(typingEffect, 100);
   }
-
-  if (deleting && charIndex < 0) {
-    deleting = false;
-    wordIndex++;
-
-    if (wordIndex >= words.length) {
-      wordIndex = 0;
-    }
-  }
-
-  setTimeout(typingEffect, speed);
-
+}
 
 typingEffect();
 
