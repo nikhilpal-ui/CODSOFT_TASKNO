@@ -147,19 +147,20 @@ header{
 }
 
 .nav-right{
- display:flex;
- align-items:center;
- gap:15px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-left: auto;
 }
 
-#themeToggle,#menu-btn{
- width:42px;
- height:42px;
- border:none;
- border-radius:50%;
- cursor:pointer;
- background:var(--card);
- color:#fff;
+#themeToggle,
+#menu-btn{
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
 }
 
 #menu-btn{
@@ -397,6 +398,17 @@ footer{
 
 /* Responsive */
 @media(max-width:900px){
+  .navbar{
+    padding: 15px 5%;
+}
+
+.logo{
+    font-size: 2rem;
+}
+
+.nav-right{
+    gap: 18px;
+}
 .hero-container,
 .about-container{
  grid-template-columns:1fr;
