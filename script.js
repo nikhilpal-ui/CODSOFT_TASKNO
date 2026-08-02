@@ -128,12 +128,15 @@ if (themeToggle) {
 }
 
 // ================= Typing Animation =================
+// ================= Typing Animation =================
 const typing = document.getElementById("typing");
 
 const text = "Frontend Developer";
 let index = 0;
 
 function typingEffect() {
+  if (!typing) return;
+
   if (index < text.length) {
     typing.textContent += text.charAt(index);
     index++;
@@ -142,27 +145,6 @@ function typingEffect() {
 }
 
 typingEffect();
-  let speed = deleting ? 60 : 120;
-
-  if (!deleting && charIndex > currentWord.length) {
-    deleting = true;
-    speed = 1200;
-  }
-
-  if (deleting && charIndex < 0) {
-    deleting = false;
-    wordIndex++;
-
-    if (wordIndex >= words.length) {
-      wordIndex = 0;
-    }
-  }
-
-  setTimeout(typingEffect, speed);
-
-
-typingEffect();
-
 // ================= Contact Form Validation =================
 const form = document.getElementById("contactForm");
 
