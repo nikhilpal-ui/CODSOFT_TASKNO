@@ -115,7 +115,7 @@ A responsive task management application with Local Storage support.
 
 ---
 
-# 📁 Repository Structure
+
 
 # 📁 Repository Structure
 
