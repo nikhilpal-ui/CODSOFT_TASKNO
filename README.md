@@ -18,8 +18,9 @@ https://nikhilpal-ui.github.io/CODSOFT_TASKNO/
 ### Task 2 - To-Do List Application
 https://nikhilpal-ui.github.io/CODSOFT_TASKNO/Task-2-Todo/
 
-### Task 3 - Calculator
-Coming Soon
+## 💰 Task 3 - Expense Tracker
+
+**Status:** Coming Soon
 
 ---
 
