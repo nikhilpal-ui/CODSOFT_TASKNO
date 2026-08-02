@@ -91,21 +91,31 @@ A responsive task management application with Local Storage support.
 
 # 📁 Repository Structure
 
+# 📁 Repository Structure
+
 ```text
 CODSOFT_TASKNO/
 │
-├── README.md
-├── index.html
-├── style.css
-├── script.js
+├── 🌐 Portfolio
+│   ├── README.md
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   ├── RESUME.pdf
+│   ├── about.jpg
+│   ├── OIP (2).jpg
+│   └── shop (1).jpg
 │
-├── Task-2-Todo/
+├── 📋 Task-2-Todo/
+│   ├── README.md
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
 │
-└── Task-3-Expense-Tracker/
-    coming soon
+├── 💰 Task-3-Expense-Tracker/
+│      coming soon
+└── 🎵 Task-4-Music-Player/
+       coming soon
 ```
 
 ---
