@@ -406,10 +406,10 @@ footer{
 /* Responsive */
 @media(max-width:900px){
   .navbar{
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    padding:15px 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 10%;
 }
 }
 
