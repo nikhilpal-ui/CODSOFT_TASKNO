@@ -18,7 +18,11 @@ https://nikhilpal-ui.github.io/CODSOFT_TASKNO/
 ### Task 2 - To-Do List Application
 https://nikhilpal-ui.github.io/CODSOFT_TASKNO/Task-2-Todo/
 
-## 💰 Task 3 - Expense Tracker
+##  Task 3 - Expense Tracker
+
+**Status:** Coming Soon
+
+### Task 4 - Music Player
 
 **Status:** Coming Soon
 
@@ -79,6 +83,10 @@ A responsive task management application with Local Storage support.
 
 **Status:** Coming Soon
 
+### Task 4 - Music Player
+
+**Status:** Coming Soon
+
 ---
 
 # 📁 Repository Structure
@@ -97,9 +105,7 @@ CODSOFT_TASKNO/
 │   └── script.js
 │
 └── Task-3-Expense-Tracker/
-    ├── index.html
-    ├── style.css
-    └── script.js
+    coming soon
 ```
 
 ---
