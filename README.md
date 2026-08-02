@@ -95,7 +95,7 @@ CODSOFT_TASKNO/
 │   ├── style.css
 │   └── script.js
 │
-└── Task-3-Calculator/
+└── Task-3-Expense-Tracker/
     ├── index.html
     ├── style.css
     └── script.js
