@@ -128,18 +128,7 @@ if (themeToggle) {
 }
 
 // ================= Typing Animation =================
-const typing = document.getElementById("typing");
 
-const text = "Frontend Developer";
-let index = 0;
-
-function typingEffect() {
-  if (index < text.length) {
-    typing.textContent += text.charAt(index);
-    index++;
-    setTimeout(typingEffect, 100);
-  }
-}
 
 typingEffect();
   const typing = document.getElementById("typing");
