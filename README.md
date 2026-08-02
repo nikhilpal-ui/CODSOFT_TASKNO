@@ -81,7 +81,33 @@ A responsive task management application with Local Storage support.
 
 ##  Task 3 - Expense Tracker
 
-**Status:** Coming Soon
+### Features
+
+- Add Income & Expense Transactions
+- Edit Transactions
+- Delete Transactions
+- Transaction History
+- Date & Category Selection
+- Total Income Summary
+- Total Expense Summary
+- Current Balance Calculation
+- Search Transactions
+- Category-based Filtering
+- Local Storage Support
+- Responsive Design
+- Modern User Interface
+- Dark Mode
+
+---
+
+### Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Local Storage API
+- Font Awesome
+- Google Fonts
 
 ##  Task 4 - Music Player
 
