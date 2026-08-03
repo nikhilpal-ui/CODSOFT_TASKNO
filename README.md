@@ -111,7 +111,7 @@ A responsive task management application with Local Storage support.
 
 ##  Task 4 - Music Player
 
-# ✨ Features
+#  Features
 
 - Play & Pause Music
 - Next & Previous Track Controls
