@@ -24,7 +24,7 @@ https://nikhilpal-ui.github.io/CODSOFT_TASKNO/Task-3-Expense-Tracker/
 
 ##  Task 4 - Music Player
 
-**Status:** Coming Soon
+https://nikhilpal-ui.github.io/CODSOFT_TASKNO/Task-4-Music-Player/
 
 ---
 
@@ -111,7 +111,35 @@ A responsive task management application with Local Storage support.
 
 ##  Task 4 - Music Player
 
-**Status:** Coming Soon
+# ✨ Features
+
+- Play & Pause Music
+- Next & Previous Track Controls
+- Interactive Progress Bar with Seek Functionality
+- Display Song Title, Artist Name & Album Artwork
+- Current Playback Time & Total Duration
+- Volume Control & Mute/Unmute
+- Playlist Support
+- Shuffle Mode
+- Repeat Mode
+- Autoplay Next Song
+- Favorite Songs Option
+- Dark Mode
+- Responsive Design
+- Modern Glassmorphism User Interface
+- Smooth Animations
+
+---
+
+# 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- HTML5 Audio API
+- Local Storage API
+- Font Awesome
+- Google Fonts
 
 ---
 
